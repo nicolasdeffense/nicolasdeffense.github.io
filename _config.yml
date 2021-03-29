@@ -1,6 +1,6 @@
 # Dependencies
 markdown:      redcarpet
-highlighter:   pygments
+highlighter:   rouge
 
 # Permalinks
 permalink:        pretty
@@ -9,14 +9,14 @@ permalink:        pretty
 exclude:          ['present/tips/*.md']
 
 # Setup
-title:            Chris Holden
-description:      'Geographer at <a href="http://www.bu.edu/earth/">Boston University</a>'
+title:            Nicolas Deffense
+description:      'Scientific Reasearcher at <a href="https://uclouvain.be/en/index.html">UCLouvain</a>'
 tagline:          'Remote sensing, Python, science'
-url:              https://ceholden.github.io/
+url:              https://nicolasdeffense.github.io/
 baseurl:          /
 author:
-  name:           Chris Holden
-  url:            https://ceholden.github.io/
+  name:           Nicolas Deffense
+  url:            https://nicolasdeffense.github.io/
 
 paginate:         5
 paginate_path: "posts/page:num"
@@ -27,7 +27,7 @@ disqus_shortname: ceholden
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/ceholden/ceholden.github.io
+  repo:           https://github.com/nicolasdeffense/nicolasdeffense.github.io
 
 gems:
   - jekyll-mentions
