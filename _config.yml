@@ -1,0 +1,35 @@
+# Dependencies
+markdown:      redcarpet
+highlighter:   pygments
+
+# Permalinks
+permalink:        pretty
+
+# Exclude present folder since we'll make HTMLs ourself
+exclude:          ['present/tips/*.md']
+
+# Setup
+title:            Chris Holden
+description:      'Geographer at <a href="http://www.bu.edu/earth/">Boston University</a>'
+tagline:          'Remote sensing, Python, science'
+url:              https://ceholden.github.io/
+baseurl:          /
+author:
+  name:           Chris Holden
+  url:            https://ceholden.github.io/
+
+paginate:         5
+paginate_path: "posts/page:num"
+
+
+disqus_shortname: ceholden
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/ceholden/ceholden.github.io
+
+gems:
+  - jekyll-mentions
+  - github-pages
+
