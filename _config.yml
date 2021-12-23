@@ -33,3 +33,5 @@ gems:
   - jekyll-mentions
   - github-pages
 
+
+theme: jekyll-theme-cayman
