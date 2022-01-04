@@ -1,15 +1,15 @@
 ---
-layout: default
+layout: default1
 title: Nicolas Deffense
-description: Research & teaching assistant in geomatics in the <a href="https://uclouvain.be/en/research-institutes/eli/ style="color:black;">Earth & Life Institute</a> at <a href="https://uclouvain.be/ style="color:white;">UCLouvain</a>
 ---
 
 Welcome to my personal website !
 
-<img src="./images/Sentinel-3B.jpg" width="800">
+description: Research & teaching assistant in geomatics in the <a href="https://uclouvain.be/en/research-institutes/eli/ style="color:black;">Earth & Life Institute</a> at <a href="https://uclouvain.be/ style="color:white;">UCLouvain</a>
+
 
 <figure>
     <img src="./images/Sentinel-3B.jpg"
-         alt="Elephant at sunset">
+         width="800" >
     <figcaption>An elephant at sunset</figcaption>
 </figure>
