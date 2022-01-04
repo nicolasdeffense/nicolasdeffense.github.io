@@ -9,12 +9,6 @@ Welcome to my personal website !
 
 
 <figure>
-    <img src="./images/Sentinel-3B.jpg"
-         width="800" >
-    <figcaption>Sentinel-3B</figcaption>
-</figure>
-
-<figure>
     <img src="./images/Sentinel-1.jpg"
          width="800" height="400">
     <figcaption>Sentinel-1</figcaption>
@@ -22,13 +16,3 @@ Welcome to my personal website !
 
 
 [<img src="./logos/envelope-regular.svg" width="25" height="25">](mailto:nicolas.deffense@uclouvain.be) | [<img src="./logos/github-brands.svg" width="25" height="25">](https://github.com/nicolasdeffense)
-
-
-<footer>
-
-<a href="https://github.com/nicolasdeffense">
-         <img alt="GitHub" src="./logos/github-brands.svg"
-         width=25" height="25">
-</a>
-
-</footer>
