@@ -11,20 +11,26 @@ Welcome to my personal website !
 <figure>
     <img src="./images/Sentinel-3B.jpg"
          width="800" >
-    <figcaption>An elephant at sunset</figcaption>
+    <figcaption>Sentinel-3B</figcaption>
+</figure>
+
+<figure>
+    <img src="./images/Sentinel-1.jpg"
+         width="800" >
+    <figcaption>Sentinel-1</figcaption>
 </figure>
 
 
+[<img src="./logos/envelope-regular.svg" width="25" height="25">](mailto:nicolas.deffense@uclouvain.be)
 
-<img src="./logos/envelope-regular.svg" width="50" height="50">
-
-<img src="./logos/github-brands.svg" width="50" height="50">
-
-
-[<img src="./logos/envelope-regular.svg" width="50" height="50">](mailto:nicolas.deffense@uclouvain.be)
-
-[<img src="./logos/github-brands.svg" width="50" height="50">](https://github.com/nicolasdeffense)
+[<img src="./logos/github-brands.svg" width="25" height="25">](https://github.com/nicolasdeffense)
 
 
+<footer>
 
-<a href="mailto:nicolas.deffense@uclouvain.be" title="email"><i class="fa fa-envelope"></i></a>
+<a href="https://github.com/nicolasdeffense">
+         <img alt="GitHub" src="./logos/github-brands.svg"
+         width=25" height="25">
+</a>
+
+</footer>
