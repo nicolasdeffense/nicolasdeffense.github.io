@@ -16,14 +16,12 @@ Welcome to my personal website !
 
 <figure>
     <img src="./images/Sentinel-1.jpg"
-         width="800" >
+         width="800" height="400">
     <figcaption>Sentinel-1</figcaption>
 </figure>
 
 
-[<img src="./logos/envelope-regular.svg" width="25" height="25">](mailto:nicolas.deffense@uclouvain.be)
-
-[<img src="./logos/github-brands.svg" width="25" height="25">](https://github.com/nicolasdeffense)
+[<img src="./logos/envelope-regular.svg" width="25" height="25">](mailto:nicolas.deffense@uclouvain.be) | [<img src="./logos/github-brands.svg" width="25" height="25">](https://github.com/nicolasdeffense)
 
 
 <footer>
