@@ -21,7 +21,9 @@ I am supervising the practical work of the *Land monitoring by advanced Earth Ob
 
 >This course is part of the University Certificate in Applied Geomatics available to professionals.
 
-<figure>
+<figure class="image">
     <img src="./images/Sentinel-1.jpg" width="800" height="400">
     <figcaption>ESA - Sentinel-1</figcaption>
 </figure>
+
+
